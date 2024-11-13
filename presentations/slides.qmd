@@ -3,7 +3,7 @@ format:
   revealjs:
     theme: themes/uu.scss
     logo: images/UU_logo_2021_EN_RGB.png
-    footer: https://edu.nl/pthd4
+    footer: https://edu.nl/8tq37
 ---
 
 # Low-barrier access to Large Scale Computing at UU {data-background-color="#FFCD00"}
@@ -215,7 +215,7 @@ It takes time and effort to help researchers to get started with HPC.
 - Increasingly large projects
 - GPU availability
 - Billing recurring large users internally
-- Ensuring enough user support, development and intake capacity, together with faculties
+- Ensuring enough user support, development and intake capacity, together with faculties and SURF
 
 :::
 
@@ -225,7 +225,7 @@ It takes time and effort to help researchers to get started with HPC.
 
 - [HPC Support](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing) @ UU [Research Data Management Support](https://www.uu.nl/en/research/research-data-management)
 
-- [This presentation on GitHub](https://github.com/UtrechtUniversity/re-surf-research-day-2024)
+- [This presentation on GitHub](https://github.com/UtrechtUniversity/re-federated-compute2024)
 
 :::
 
