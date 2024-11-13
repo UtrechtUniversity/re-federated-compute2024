@@ -1,0 +1,234 @@
+--- 
+format: 
+  revealjs:
+    theme: themes/uu.scss
+    logo: images/UU_logo_2021_EN_RGB.png
+    footer: https://edu.nl/pthd4
+---
+
+# Low-barrier access to Large Scale Computing at UU {data-background-color="#FFCD00"}
+
+::: {.r-stack}
+a case study
+:::
+
+::: {.r-stack}
+<br/>
+:::
+
+::: {.r-stack}
+Jelle Treep & Dawa Ometto
+:::
+
+::: {.footer}
+:::
+
+## Introduction
+::: {.theme-section}
+
+Research Data Management Services @ Utrecht University:
+
+- Research IT & Engineering
+- Yoda
+- Applications (GitHub)
+- &rarr; HPC support & access
+
+:::
+
+![](images/rdm.png)
+
+
+## Local HPC facilities at UU
+
+::: {.theme-section-small}
+
+- Utrecht Bioinformatics Center (UBC):
+  - \>2000 CPUcores, 30 GPUs, 20 TB ram
+- Faculty of Science: 
+  - 1 small general purpose cluster
+  - \>10 specialized clusters
+- Faculty of Geosciences:
+  - 1 small general purpose cluster
+  - a number of servers (GPU, large memory)
+- Faculty of humanities
+  - AI cluster
+- Etc.
+
+:::
+
+
+## Introduction
+::: {.theme-section}
+
+- Large increase in demand for LSC
+- No general local facility for all researchers
+- At UU, we meet this demand using SURF services:
+    - Snellius
+    - ResearchCloud (VRE)
+    - RCCS contract
+    - Local HPC consultancy and support team
+:::
+
+## Research Capacity Computing Service
+::: {.theme-section}
+
+RCCS gives institutes direct access to SURFs compute facilities:
+
+- Lowering barriers
+- Snellius & SURF Research Cloud
+- pay-per-use model
+
+:::
+
+## Research Capacity Computing Service
+::: {.theme-section}
+
+Costs:
+
+- 1.000 RCCS-credits - 33,14 euro
+- ~0,03 euro per CPU hour on Research Cloud
+- ~0,025 euro per CPU hour on Snellius
+- Access to commercial cloud (varying cost)
+
+:::
+
+## How do we organize access?
+
+![](images/website.png){width=75%}
+
+- Intake with engineer (30 minutes)
+- Starting budget of 10.000 credits
+- &rarr; Onboarding time ~2 days
+
+## Support
+
+::: {.theme-section}
+
+Support provided by Research Engineers:
+
+- Getting started workshop (SRC)
+- Catalog development (SRC)
+- Basic user support (Snellius and SRC)
+- Weekly walk-in hours
+:::
+
+## History
+::: {.theme-section}
+:::: {.columns}
+::: {.column width=50%}
+- RCCS @ UU runs for ~8 years (Kees van Eijden)
+- From ~10 projects to >150 projects
+    - 1 every 2 months to 5 per week 
+:::
+::: {.column width=50%}
+![RCCS reports](images/yearly_usage.png)
+:::
+::::
+:::
+
+## Research Cloud projects
+
+::: {.theme-section}
+
+:::: {.columns}
+::: {.column width=50%}
+![RCCS reports](images/src_budgets.png){width=100%}
+:::
+::: {.column width=50%}
+<br>
+<br>
+
+| Faculty | Projects |
+|---------|----------|
+| Geosciences | 17 |
+| Science | 35 |
+| Humanities | 21 |
+| Social Sciences | 18 |
+| Law and Economics | 13 |
+| Veterinary Medicine | 21 |
+
+: {.striped}
+
+:::
+::::
+:::
+
+## CPU vs. GPU on Research Cloud
+
+::: {.theme-section}
+![RCCS reports](images/monthly_usage.png)
+:::
+
+##
+
+::: {.theme-section}
+![](images/small_compute.png)
+:::
+
+::: {.theme-section}
+Source: [NWO](https://www.nwo.nl/en/researchprogrammes/computing-time-on-national-computer-facilities)
+:::
+
+
+## What do we learn from this?
+
+::: {.theme-section}
+- Large and growing demand for flexible HPC solutions
+    - Small-medium (VRE) as well as large (Snellius) scale.
+    - Across all faculties.
+- RCCS starting budgets help researchers to conduct exploratory studies, often leading to larger projects.
+
+:::
+
+## What do we learn from this?
+
+::: {.theme-section}
+Success factors at UU:
+
+- Close cooperation with SURF
+- Low-barrier onboarding & support
+- Engineering support
+  - Reliable and reusable VRE environments
+  - Hands-on customization
+  - Basic troubleshooting and guidance
+- Good relations with faculty support teams
+
+:::
+
+## What do we learn from this?
+
+::: {.theme-section}
+
+Most importantly:
+
+It takes time and effort to help researchers to get started with HPC.
+
+- Support team of engineers, developers, admins
+  - since end of 2023: 1 dedicated engineer
+
+:::
+
+## Future challenges
+
+::: {.theme-section}
+
+- Increasingly large projects
+- GPU availability
+- Billing recurring large users internally
+- Ensuring enough user support, development and intake capacity, together with faculties
+
+:::
+
+## Links
+
+::: {.theme-section}
+
+- [HPC Support](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing) @ UU [Research Data Management Support](https://www.uu.nl/en/research/research-data-management)
+
+- [This presentation on GitHub](https://github.com/UtrechtUniversity/re-surf-research-day-2024)
+
+:::
+
+# {data-background-color="#FFCD00"}
+
+![](images/UU_logo_2021_EN_RGB_payoff.png)
