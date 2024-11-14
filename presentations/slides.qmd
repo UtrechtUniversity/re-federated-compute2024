@@ -153,6 +153,10 @@ Support provided by Research Engineers:
 ::::
 :::
 
+##
+
+![](images/podcasts.png)
+
 ## CPU vs. GPU on Research Cloud
 
 ::: {.theme-section}
